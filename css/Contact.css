@@ -1,0 +1,30 @@
+.Titre_colonne{
+    margin-top:-10%;
+    color:#fc0254;
+    margin-left:10%
+}
+
+.logos{
+    margin-left:8%;
+    margin-right:4%;
+}
+
+.logoss{
+    margin-left:-10%;
+    margin-right:4%;
+}
+
+@media only screen and (max-width: 768px) { 
+    .Titre_colonne{
+        margin-left:22%;
+    }
+    .logos{
+        margin-left:27%;
+    }
+    .logoss{
+        margin-left:10%;
+    }
+    .col-lg-6{
+        margin-top:10%;
+    }
+  }
