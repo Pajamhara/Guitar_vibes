@@ -1,0 +1,16 @@
+
+/* Conteneur des images */
+.image-container {
+    display: flex; /* Activer le Flexbox */
+    flex-wrap: wrap; /* Permet de passer à une nouvelle ligne si nécessaire */
+    justify-content: center; /* Centrer horizontalement */
+    align-items: center; /* Centrer verticalement */
+    gap: 20px; /* Espacement entre les images */
+}
+
+/* Style des images */
+.image-container img {
+    width: 150px; /* Images responsives */
+    height: 150px; /* Limiter la hauteur des images */
+    border-radius: 10px; /* Coins arrondis */
+}
