@@ -6,12 +6,12 @@
       height:89px;
       padding: 10px;
       transition: top 0.3s ease;
-      background:linear-gradient(#F6BA4A,#F7BE4D);
+      background:linear-gradient(#D0791A,#C26E1B);
     }
     .bannière{
       height: 420px;
       background-size:cover;
-      background:linear-gradient(#F6BA4A,#FACE59);
+      background:linear-gradient(#D0791A,#904321);
     }
     .cover{
       float:left;
