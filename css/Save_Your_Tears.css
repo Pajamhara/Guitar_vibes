@@ -96,6 +96,7 @@
   .audio{
     width: 100%;
     height: 40px;
+    display: block;
   }
   .Titres{
   padding-left:35%;
