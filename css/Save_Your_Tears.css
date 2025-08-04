@@ -3,12 +3,12 @@
     top: 0;
     left: 0;
     width: 100%;
-    height:89px;
+    height:100px;
     padding: 10px;
-    transition: top 0.3s ease;
+    transition: top 0.5s ease;
     background:linear-gradient(#BC8444,#AA723B);
   }.bannière{
-    height: 420px;
+    height: 435px;
     background-size:cover;
     background:linear-gradient(#BC8444,#6A3119);
   }
@@ -21,8 +21,7 @@
   .Titres {
     font-family: Verdana;
     padding-left:30%;
-    padding-bottom:15px;
-    padding-top:25px;
+    padding-bottom:20px;
     font-size:14.5px;
   }
   .Parts {
@@ -98,12 +97,12 @@
       margin-bottom: 30px;
   }
   .Titres{
-    padding-left:40%;
-}
+  padding-left:35%;
+  }
 .Chords{
-    padding-left:40%;
+  padding-left:35%;
 }
 .Lyrics{
-    padding-left:40%;
+  padding-left:35%;
 }
   }

@@ -84,7 +84,7 @@
     width:100%;
   }
   .audio{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
   }
   .search{
     margin-top:-1.5%;
@@ -97,12 +97,12 @@
   }
 
   .Titres{
-      padding-left:40%;
+    padding-left:35%;
   }
   .Chords{
-      padding-left:40%;
+    padding-left:35%;
   }
   .Lyrics{
-      padding-left:40%;
+    padding-left:35%;
   }
   }
