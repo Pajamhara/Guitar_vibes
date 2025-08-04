@@ -6,12 +6,12 @@
     height:100px; /* Change to your desired background color */
     padding: 10px;
     transition: top 0.5s ease; /* Add smooth transition effect */
-    background:linear-gradient(#f59a5e,#EF9A57);
+    background:linear-gradient(#ECAC44,#EEAF4D);
   }
   .bannière{
     height: 435px;
     background-size:cover;
-    background:linear-gradient(#f59a5e,#dd9c41);
+    background:linear-gradient(#ECAC44,#f1b562);
   }
   .cover{
     float:left;
