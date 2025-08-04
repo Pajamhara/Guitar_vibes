@@ -95,7 +95,9 @@
       height:420px;
       width:1500px;
     }
-  
+    .audio{
+      margin-bottom: 30px;
+    }
     .Titres{
         padding-left:40%;
     }

@@ -60,7 +60,6 @@
     margin-top:-50px;
     font-size:14px;
       }
-  
   button{
   float:right;
   height:30px;
@@ -84,7 +83,9 @@
     float:none;
     width:100%;
   }
-  
+  .audio{
+    margin-bottom: 30px;
+  }
   .search{
     margin-top:-1.5%;
     margin-right:10px;
