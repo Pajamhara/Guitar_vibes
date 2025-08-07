@@ -84,7 +84,7 @@
     width:100%;
   }
   .audio{
-    margin-bottom: 50px;
+    display:none;
   }
   .search{
     margin-top:-1.5%;
